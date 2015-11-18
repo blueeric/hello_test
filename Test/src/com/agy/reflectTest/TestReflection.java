@@ -10,7 +10,8 @@ public class TestReflection {
 	private String username;
 	private String password;
 	private int[] age;
-
+	private int number=0;
+	
 	public void setUserName(String username) {
 		this.username = username;
 	}
